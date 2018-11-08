@@ -1,3 +1,0 @@
-node hamza.js
-
-pause
